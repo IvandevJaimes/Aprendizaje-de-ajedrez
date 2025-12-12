@@ -9,7 +9,7 @@ Juego educativo de consola que plantea preguntas de opción múltiple relacionad
 
 **Características**
 - Interfaz por consola, texto claro y menú navegable.
-- Banco de preguntas con opciones múltiples (A, B, C, D).
+- Banco de preguntas con opciones múltiples (1, 2, 3, 4).
 - Sistema de puntaje y feedback inmediato por respuesta.
 - Niveles de dificultad (fácil, intermedio, avanzado) o selección aleatoria.
 - Registro de puntajes por sesión (mostrar resultado final).
